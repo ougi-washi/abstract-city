@@ -1,6 +1,8 @@
 # STONKENGINE
 Lightweight engine using [Raylib](https://github.com/raysan5/raylib).
 
+(Due to Raylib limitations, the development has been moved to [Syphax-Engine](https://github.com/ougi-washi/Syphax-Engine))
+
 ## Building
 - This project has submodule dependencies, so make sure to use `git clone --recursive`
 - Build normally with `cmake`
